@@ -123,7 +123,7 @@ class MyApp extends StatelessWidget {
                           feedTime: '1 hr ago',
                           feedText:
                               'All the Lorem Ipsum generators on the Internet tend to repeat predefined.',
-                          feedImage: 'images/story-1.jpg'),
+                          feedImage: 'images/12.jpg'),
                       makeFeed(
                           userName: 'Salem Shehata',
                           userImage: 'images/8.jpg',
